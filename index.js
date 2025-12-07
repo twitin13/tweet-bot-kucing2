@@ -14,9 +14,10 @@ const client = new TwitterApi({
     // 📝 Isi tweet kamu
     const textTweet = `
 Ada potongan Moon Chicken 🥳 klaim voucher nya di halaman resto (siapa tau hoki) ✨️
-👍 spf.shopee.co.id/12X8CvtMY
+👍 https://spf.shopee.co.id/2LR14k6WVM
+👍 https://spf.shopee.co.id/2LR14k6WVM
 
-Diskon gofood grabfood shopeefood kode promo go grab shopee food daget gojek thr shopeepay gary iskak raisa 
+Diskon gofood grabfood shopeefood kode promo go grab shopee food daget gojek thr shopeepay gratis ongkir minggu amanda zahra sarapan 
 `;
 
     // 📸 Upload dua gambar
@@ -34,4 +35,5 @@ Diskon gofood grabfood shopeefood kode promo go grab shopee food daget gojek thr
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
